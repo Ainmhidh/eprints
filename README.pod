@@ -5,6 +5,15 @@
 
 GNU EPrints README
 
+NOTE
+
+This master branch is no longer maintained. 
+
+The 3.3 branch should be considered as the new "master" branch now. 
+	
+
+
+
 =head1 SYNOPSIS
 
 	./configure --help
@@ -12,6 +21,8 @@ GNU EPrints README
 	sudo make install
 
 For more information see B<http://www.eprints.org/software/>.
+
+
 
 =head1 DESCRIPTION
 
